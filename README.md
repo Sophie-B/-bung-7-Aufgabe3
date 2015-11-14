@@ -1,4 +1,4 @@
-# -Übung-7-Aufgabe3
+# Übung 7 - Aufgabe 3
 
 * Hier ist eine
 * Liste mit 3
